@@ -1,1 +1,1 @@
-workspace.members = ["interceptor", "mequeue"]
+workspace = { members = ["interceptor", "mequeue"], resolver = "2" }
